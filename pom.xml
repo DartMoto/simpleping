@@ -13,7 +13,7 @@
         <log4j.version>2.13.3</log4j.version>
         <commons.configuration>2.1.1</commons.configuration>
         <commons.beanutils>1.9.4</commons.beanutils>
-        <apache.http.client.version>4.5.3</apache.http.client.version>
+        <apache.http.client.version>4.5.13</apache.http.client.version>
     </properties>
 
     <build>
