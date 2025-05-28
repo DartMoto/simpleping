@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <log4j.version>2.17.1</log4j.version>
         <commons.configuration>2.10.1</commons.configuration>
-        <commons.beanutils>1.9.4</commons.beanutils>
+        <commons.beanutils>1.11.0</commons.beanutils>
         <apache.http.client.version>4.5.13</apache.http.client.version>
     </properties>
 
